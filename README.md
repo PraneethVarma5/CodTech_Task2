@@ -1,11 +1,11 @@
-# Project: Predictive Modeling with Linear Regression
-
 **Name:** A.V.S. Praneeth Varma  
 **Company:** CODTECH IT Solutions  
 **ID:** CT08DS6671  
 **Domain:** Data Science  
 **Duration:** August to September 2024  
 **Mentor:** Muzammil  
+
+# Project: Predictive Modeling with Linear Regression
 
 ## Objective
 The objective of this project is to implement a simple linear regression model using a dataset with continuous target variables. The project involves splitting the data into training and testing sets, training the model on the training data, evaluating its performance using metrics like mean squared error (MSE) and R-squared, and making predictions on the test set. Additionally, the project includes visualizing the regression line and actual vs. predicted values to assess the model's accuracy.
